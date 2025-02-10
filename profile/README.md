@@ -1,7 +1,7 @@
 # Welcome to Kk Glister Technology 🚀
 
 ![1000002788](https://github.com/user-attachments/assets/803fa924-4a3c-4218-8188-13e449c2a2bc)
- <!-- Replace with your organization's logo -->
+
 
 ## About Us
 **Kk Glister Technology** is a registered Information Technology organization based in Nigeria, certified by the **Corporate Affairs Commission (CAC)**. We specialize in delivering innovative technology solutions that drive growth, efficiency, and security for businesses and individuals.
@@ -77,4 +77,8 @@ All our open-source projects are licensed under the [MIT License](link). Feel fr
 ## Support Us
 If you find our work valuable, consider supporting us:
 - **Star Our Repositories:** Show your appreciation by starring our projects on GitHub.
-- **Donate:** Help us continue our mission by donating [TON](link).
+- **Donate:** Help us continue our mission by donating **TON** [UQCS3p5QC8JMm633ObFxL0bUsoc-VbsjSKhnghIddkuR1iZK](UQCS3p5QC8JMm633ObFxL0bUsoc-VbsjSKhnghIddkuR1iZK).
+
+---
+
+Thank you for visiting Kk Glister Technology on GitHub! Together, let’s build a brighter future through technology. 🌟

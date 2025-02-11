@@ -1,6 +1,6 @@
 # Welcome to Kk Glister Technology 🚀
 
-![1000002788](https://github.com/user-attachments/assets/803fa924-4a3c-4218-8188-13e449c2a2bc)
+![Logo Kk Glister](https://github.com/user-attachments/assets/803fa924-4a3c-4218-8188-13e449c2a2bc)
 
 
 ## About Us
@@ -48,8 +48,8 @@ Here are some of the projects we’re proud of:
 ## Our Team
 We are a team of passionate and skilled professionals dedicated to delivering excellence. Meet our leadership:
 - **[Mahmud Abubakar]:** CEO & Founder
-- **[Kabiru Muhammad]:** 
-- **[Abba]:** Software Engineer 
+- **[Kabiru Muhammad]:** HRM
+- **[Umar Zakariyya]:** Software Engineer 
 
 ---
 
@@ -77,7 +77,7 @@ All our open-source projects are licensed under the [MIT License](link). Feel fr
 ## Support Us
 If you find our work valuable, consider supporting us:
 - **Star Our Repositories:** Show your appreciation by starring our projects on GitHub.
-- **Donate:** Help us continue our mission by donating **TON** [UQCS3p5QC8JMm633ObFxL0bUsoc-VbsjSKhnghIddkuR1iZK](UQCS3p5QC8JMm633ObFxL0bUsoc-VbsjSKhnghIddkuR1iZK).
+- **Donate:** Help us continue our mission by donating **TON-Coin** [UQCS3p5QC8JMm633ObFxL0bUsoc-VbsjSKhnghIddkuR1iZK](UQCS3p5QC8JMm633ObFxL0bUsoc-VbsjSKhnghIddkuR1iZK).
 
 ---
 

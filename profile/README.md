@@ -1,6 +1,7 @@
 # Welcome to Kk Glister Technology 🚀
 
-![Logo Kk Glister](https://github.com/user-attachments/assets/803fa924-4a3c-4218-8188-13e449c2a2bc)
+![Logo Kk Glister](https://github.com/user-attachments/assets/e0cd2868-e044-4910-8491-8bc366395d9d)
+
 
 
 ## About Us
